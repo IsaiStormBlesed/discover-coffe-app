@@ -21,3 +21,10 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+:root {
+  --text-purple: rgb(34, 76, 214);
+  --text-purple-dark: rgb(26, 17, 189);
+  --text-black: rgba(17, 24, 39, 1);
+  --text-white: rgba(229, 231, 235, 1);
+}
